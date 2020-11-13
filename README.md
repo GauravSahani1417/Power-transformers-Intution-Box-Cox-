@@ -1,0 +1,2 @@
+# Power-transformers-Intution-Box-Cox-
+ Power Transformer, a powerful feature transformation technique for linear Machine Learning models. Feature scaling is so important that your model performance could shoot up by many a percentage points if you use the correct feature scaling techniques. Power Transformer works by trying to induce homoscedasticity in the model which is a basic assumption for Linear Machine Learning models, and tries to make each individual feature as much closer to a Gaussian curve as possible.
